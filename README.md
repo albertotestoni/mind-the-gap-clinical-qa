@@ -6,6 +6,13 @@ This repository contains the code, data processing scripts, and experiments acco
 Alberto Testoni, Iacer Calixto  
 [arXiv:2506.10769](https://arxiv.org/abs/2506.10769)
 
+
+---
+## Repository Status
+
+⚠️ **Work in Progress**  
+This repository is being updated gradually. Some scripts and documentation may be incomplete or subject to change. Please check back regularly for updates.
+
 ---
 
 ## Overview
@@ -18,13 +25,6 @@ In this work, we systematically benchmark uncertainty estimation methods across:
 - **6 question types** (diagnosis, treatment, diagnostic test, definition, procedure/operation, other)  
 
 We evaluate score-based methods, sampling-based consistency measures, and set-based conformal prediction, and we introduce a lightweight case study based on behavioral features from reasoning traces.
-
----
-
-## Repository Status
-
-⚠️ **Work in Progress**  
-This repository is being updated gradually. Some scripts, pretrained outputs, and documentation may be incomplete or subject to change. Please check back regularly for updates.
 
 ---
 
