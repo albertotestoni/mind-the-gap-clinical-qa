@@ -4,7 +4,7 @@ This repository contains the code, data processing scripts, and experiments acco
 
 **Mind the Gap: Benchmarking LLM Uncertainty, Discrimination, and Calibration in Specialty-Aware Clinical QA**  
 Alberto Testoni, Iacer Calixto  
-[arXiv:2506.10769](https://arxiv.org/abs/2506.10769)
+[arXiv:2506.10769](https://arxiv.org/abs/2506.10769) - Accepted to EACL 2026 (Main Conference).
 
 
 ---
